@@ -1,0 +1,16 @@
+{
+  "name": "dokter2",
+  "version": "1.0.0",
+  "description": "vidio1",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "bagus_arinata",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^8.2.0",
+    "save": "^2.4.0",
+    "uuid": "^7.0.3"
+  }
+}
