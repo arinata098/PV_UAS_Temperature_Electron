@@ -1,0 +1,1 @@
+Tambahan : Mempersingkat code untuk halaman conversi agar efisien & penambahan style pada css
